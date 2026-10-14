@@ -1,6 +1,6 @@
 # Flutter Piano App
 
-A lightweight practice project built in Flutter to simulate a simple piano interface. It explores working with system chrome settings to force landscape orientations and stacking custom widgets.
+A project built in Flutter to simulate a piano interface. It explores working with system chrome settings to force landscape orientations and stacking custom widgets.
 
 ## What it does
 * **Forced Landscape:** Uses `SystemChrome.setPreferredOrientations` to lock the application screen horizontally right at launch.
